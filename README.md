@@ -2,7 +2,7 @@
 image recognition software to identify and display the areas of change on the coral colony.	
 It is required to determine the health of the coral colony by comparing the current
 image to an image taken one year ago (given in the drive link below) and show any
-changes.	
+changes.
  compare images to assess whether the coral has grown, is
 damaged/has died, is bleached, or has recovered from bleaching :
 ● Growth is defined as the coral colony having new pink branches not seen in the
