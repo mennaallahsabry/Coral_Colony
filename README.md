@@ -1,9 +1,11 @@
 # Coral_Colony
 image recognition software to identify and display the areas of change on the coral colony.	
+
 It is required to determine the health of the coral colony by comparing the current
 image to an image taken one year ago (given in the drive link below) and show any
 changes.
- compare images to assess whether the coral has grown, is
+
+compare images to assess whether the coral has grown, is
 damaged/has died, is bleached, or has recovered from bleaching :
 ● Growth is defined as the coral colony having new pink branches not seen in the
 previous image.
@@ -13,6 +15,7 @@ the previous image.
 turned white.
 ● Recovery from bleaching is defined as white branches from the previous photo now
 being colored pink.	
+
 Requirements:	
 The program should outline areas where the coral has changed. The following
 parameters must be used :	
